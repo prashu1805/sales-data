@@ -1,0 +1,37 @@
+{
+  "kpis": {
+    "totalSales": 125000,
+    "totalOrders": 3200,
+    "avgOrderValue": 39.1
+  },
+  "salesTrend": [
+    { "month": "Jan", "sales": 8000 },
+    { "month": "Feb", "sales": 12000 },
+    { "month": "Mar", "sales": 15000 },
+    { "month": "Apr", "sales": 10000 },
+    { "month": "May", "sales": 20000 },
+    { "month": "Jun", "sales": 25000 }
+  ],
+  "categorySales": [
+    { "category": "Electronics", "value": 40000 },
+    { "category": "Clothing", "value": 30000 },
+    { "category": "Home", "value": 20000 },
+    { "category": "Other", "value": 15000 }
+  ],
+  "regionSales": [
+    { "region": "North", "value": 30000 },
+    { "region": "South", "value": 25000 },
+    { "region": "East", "value": 20000 },
+    { "region": "West", "value": 15000 }
+  ],
+  "topProducts": [
+    { "name": "Laptop", "sales": 15000 },
+    { "name": "T-Shirt", "sales": 10000 },
+    { "name": "Headphones", "sales": 8000 }
+  ],
+  "topCustomers": [
+    { "name": "John Doe", "spend": 5000 },
+    { "name": "Jane Smith", "spend": 4200 },
+    { "name": "Michael Lee", "spend": 3800 }
+  ]
+}
